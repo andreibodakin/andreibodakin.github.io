@@ -2,7 +2,7 @@
 ### Java/Kotlin Разработчик
 
 📍 Москва, Россия | 📞 +7 (919) 775-01-11 | ✉️ andrei.bodakin@mail.ru
-[GitHub](https://github.com/andreibodakin) | [LinkedIn](ссылка_на_LinkedIn_если_есть)
+[GitHub](https://github.com/andreibodakin) | [LinkedIn](https://www.linkedin.com/in/andrei-bodakin/)
 
 ---
 
