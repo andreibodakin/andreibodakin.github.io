@@ -5,6 +5,8 @@
 📍 Москва, Россия | 📞 +7 (919) 775-01-11 | ✉️ andrei.bodakin@mail.ru
 [GitHub](https://github.com/andreibodakin) | [LinkedIn](https://www.linkedin.com/in/andrei-bodakin/)
 
+[Мое резюме в pdf формате](https://github.com/andreibodakin/andreibodakin.github.io/blob/master/%D0%91%D0%BE%D0%B4%D0%B0%D0%BA%D0%B8%D0%BD%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B8%CC%86%20-%20Java%20-%20Kotlin.pdf)
+
 ---
 
 ## 📝 Краткая информация
